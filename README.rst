@@ -136,7 +136,7 @@ Configuration
 We load configuration from file ``config/dev.py`` by default and this
 can be configured by ``KQUEEN_CONFIG_FILE`` environment variable. Any
 environment variable matching name ``KQUEEN_*`` will be loaded and saved
-to configuration.
+to configuration. Follow http://kqueen.readthedocs.io/en/master/kqueen.html#configuration link to configure useful variables for deployment.
 
 Documentation
 -------------
